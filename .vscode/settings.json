@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        ""
+    ],
+    "files.associations": {
+        "iostream": "cpp",
+        "iomanip": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
